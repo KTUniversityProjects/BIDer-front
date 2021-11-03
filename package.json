@@ -18,7 +18,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.5",
     "react-star-ratings": "^2.3.0",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
